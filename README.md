@@ -33,6 +33,8 @@ Here are some ideas to get you started:
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+"Code is like humor. When you have to explain it, it’s bad."
+– Cory House
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jk-olaoluwa&limit=5&theme=dark&combine_all_yearly_contributions=true)
